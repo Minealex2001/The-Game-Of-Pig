@@ -31,7 +31,7 @@ Contribuir
 
 Si quieres contribuir a este juego, puedes enviar un pull request a la siguiente dirección:
 
-[https://github.com/](https://github.com/Minealex2001/The-Game-Of-Pig)
+https://github.com/Minealex2001/The-Game-Of-Pig
 
 También puedes abrir un issue para reportar un bug o sugerir una mejora.
 
