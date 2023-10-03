@@ -1,4 +1,4 @@
-The Game of Pig
+**The Game of Pig**
 
 Descripcion
 
@@ -32,8 +32,9 @@ Contribuir
 Si quieres contribuir a este juego, puedes enviar un pull request a la siguiente dirección:
 
 [https://github.com/](https://github.com/Minealex2001/The-Game-Of-Pig)
+
 También puedes abrir un issue para reportar un bug o sugerir una mejora.
 
 Licencia
 
-Este juego está licenciado bajo la licencia GPL 3.0.
+Este juego está licenciado bajo la licencia **GPL 3.0**.
